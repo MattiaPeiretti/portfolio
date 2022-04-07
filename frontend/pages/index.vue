@@ -29,41 +29,16 @@
       <div class="pt-64 centered-page">
         <h2 class="text-4xl pb-6">Who am I?</h2>
 
-        <p style="column-width: 45ch; line-height: 1.7">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet
-          mollis mauris, congue lacinia dolor. Pellentesque sit amet diam
-          condimentum, dignissim orci vel, pretium lorem. Praesent id finibus
-          lacus. Fusce vitae dui elementum, consectetur ipsum vitae, tempor
-          turpis. Vivamus facilisis et turpis vestibulum maximus. Praesent
-          fermentum nisl quis urna cursus, at porta ligula dignissim. Mauris et
-          odio scelerisque, finibus tortor in, hendrerit est. In eget dui
-          pulvinar, aliquam mauris a, porttitor magna. Donec suscipit ipsum ut
-          magna ultricies consectetur. Nunc vel tellus commodo, elementum sapien
-          a, tincidunt massa. Fusce maximus metus vitae purus placerat, non
-          tempor ipsum hendrerit. Mauris lobortis odio vel lectus aliquet, non
-          auctor elit fermentum. Proin pretium turpis sed purus eleifend, ac
-          consectetur nisi aliquet. Ut massa nunc, tristique et rutrum eu,
-          varius non ipsum. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas. Phasellus consequat dui eu
-          dapibus dignissim. Etiam felis libero, lacinia quis sapien ultrices,
-          imperdiet bibendum erat. Duis at urna magna. Quisque ut congue elit,
-          elementum interdum augue. Nullam blandit elit sem, vel mollis nibh
-          cursus vitae. Nunc elementum mi eget fermentum semper. Nunc mattis
-          vehicula ornare. Etiam scelerisque pulvinar urna, id semper augue
-          sodales a. Aliquam erat volutpat. In volutpat, turpis a consequat
-          elementum, sapien lacus venenatis nisl, commodo placerat tellus lorem
-          quis dolor. Phasellus venenatis scelerisque erat quis suscipit. Ut
-          rhoncus, risus id venenatis gravida, leo nunc consectetur urna,
-          convallis suscipit ipsum mauris vitae mi. Nunc auctor ultrices nulla
-          eget dictum. Donec sit amet enim arcu. Suspendisse aliquam mi in
-          feugiat malesuada. Vestibulum nec libero a purus luctus dapibus vel ut
-          nisl. Nulla facilisi. Maecenas ut tellus at enim pretium tempor vitae
-          vitae velit. Fusce porta nec est vel elementum. Sed non augue congue
-          justo consequat porta. Integer luctus metus massa. Lorem ipsum dolor
-          sit amet, consectetur adipiscing elit. Sed eu vestibulum risus, ut
-          posuere metus. Etiam ac nisi id libero fermentum aliquet in id risus.
-          Vestibulum volutpat diam sed fringilla auctor. Vestibulum et ligula
-          justo. Donec varius elit nisl, vel maximus sem luctus vitae.
+        <p class="text-lg" style="column-width: 45ch; line-height: 1.7">
+          Hello there, dear internet surfer! 🏄‍ I am Mattia Peiretti, currently
+          a full stack developer commercially, and a whatever-does-the-job
+          developer in my free time. Here on this website you can find little
+          stories about my journey. How I approached programming for the first
+          time and why. The technologies that I have played with, some cool
+          projects I worked on and so on. If I tickle your fancy, make sure to
+          follow me on
+          <a class="lnk" href="https://github.com/mattiapeiretti">GitHub</a>, we
+          devs must stick together after all.
         </p>
       </div>
     </section>

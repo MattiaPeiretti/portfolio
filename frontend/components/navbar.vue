@@ -66,7 +66,7 @@
           <div class="nav-links text-6xl flex flex-col">
             <a
               @click="toggleNavbar"
-              href="#ABOUT"
+              href="/#ABOUT"
               class="max-w-sm font-bold pb-6"
             >
               <span class="link link-underline link-underline-black">
@@ -75,7 +75,7 @@
             </a>
             <a
               @click="toggleNavbar"
-              href="#WORKS"
+              href="/#WORKS"
               class="max-w-sm font-bold pb-6"
             >
               <span class="link link-underline link-underline-black">
@@ -84,7 +84,7 @@
             </a>
             <a
               @click="toggleNavbar"
-              href="#BLOGS"
+              href="/#BLOGS"
               class="max-w-sm font-bold pb-6"
             >
               <span class="link link-underline link-underline-black">
@@ -93,7 +93,7 @@
             </a>
             <a
               @click="toggleNavbar"
-              href="#FOOTER"
+              href="/#FOOTER"
               class="max-w-sm font-bold pb-6"
             >
               <span class="link link-underline link-underline-black">

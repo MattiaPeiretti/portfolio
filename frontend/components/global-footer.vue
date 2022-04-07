@@ -7,10 +7,12 @@
           <ul class="list-none footer-links">
             <li class="mb-2"></li>
             <li class="mb-2">
-              <a href="/about-us" class="lnk">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/mattiapeiretti/" class="lnk"
+                >LinkedIn</a
+              >
             </li>
             <li class="mb-2">
-              <a href="/about-us" class="lnk">GitHub</a>
+              <a href="https://github.com/MattiaPeiretti" class="lnk">GitHub</a>
             </li>
           </ul>
         </div>
