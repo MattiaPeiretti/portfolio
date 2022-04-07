@@ -1,10 +1,11 @@
 <template>
   <div>
-    <nav class="centered-page">
+    <nav class="centered-page z-50">
       <div class="flex flex-wrap justify-between items-center">
-        <div class="logo text-2xl"><h2>Mattia Peiretti</h2></div>
+        <div class="logo text-2xl bg-white"><h2>Mattia Peiretti</h2></div>
         <div
           class="
+            bg-white
             open-navbar
             flex
             hover:bg-black hover:text-white
@@ -23,13 +24,15 @@
         class="
           navbar-opened
           bg-red-400
-          absolute
+          z-50
           top-0
           left-0
           right-0
           bottom-0
           text-white
           overflow-hidden
+          h-screen
+          fixed
         "
       >
         <div
