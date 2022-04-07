@@ -8,7 +8,7 @@
           w-72
           bg-red-300
           rounded-xl
-          hover:ring-2 hover:ring-blue-300
+          hover:ring-2 hover:ring-red-500
         "
       ></div>
     </a>

@@ -1,6 +1,6 @@
 <template>
   <footer class="footer-1 bg-gray-100 py-8 sm:py-12">
-    <div class="mx-auto px-4 sm:w-full lg:w-11/12 2xl:w-10/12">
+    <div class="mx-auto px-8 sm:w-full lg:w-11/12 2xl:w-10/12">
       <div class="sm:flex sm:flex-wrap sm:-mx-4 md:py-4">
         <div class="px-4 sm:w-1/2 md:w-1/4 xl:w-1/6">
           <h5 class="text-xl font-bold mb-6">Handy Links</h5>
@@ -19,7 +19,7 @@
           Please contact me at:
           <ul class="list-none footer-links">
             <li class="mb-2">
-              <a href="mailt0:contact@mattiapeiretti.com" class="lnk"
+              <a href="mailto:contact@mattiapeiretti.com" class="lnk"
                 >contact@mattiapeiretti.com</a
               >
             </li>

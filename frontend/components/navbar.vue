@@ -2,7 +2,9 @@
   <div>
     <nav class="centered-page z-50">
       <div class="flex flex-wrap justify-between items-center">
-        <div class="logo text-2xl bg-white"><h2>Mattia Peiretti</h2></div>
+        <div class="logo text-2xl bg-white">
+          <a href="/"><h2>Mattia Peiretti 🚀</h2></a>
+        </div>
         <div
           class="
             bg-white
@@ -62,22 +64,38 @@
         </div>
         <div class="flex centered-page" style="height: 90vh">
           <div class="nav-links text-6xl flex flex-col">
-            <a href="#" class="max-w-sm font-bold pb-6">
+            <a
+              @click="toggleNavbar"
+              href="#ABOUT"
+              class="max-w-sm font-bold pb-6"
+            >
               <span class="link link-underline link-underline-black">
                 About Me
               </span>
             </a>
-            <a href="#" class="max-w-sm font-bold pb-6">
+            <a
+              @click="toggleNavbar"
+              href="#WORKS"
+              class="max-w-sm font-bold pb-6"
+            >
               <span class="link link-underline link-underline-black">
                 Works
               </span>
             </a>
-            <a href="#" class="max-w-sm font-bold pb-6">
+            <a
+              @click="toggleNavbar"
+              href="#BLOGS"
+              class="max-w-sm font-bold pb-6"
+            >
               <span class="link link-underline link-underline-black">
                 Blogs
               </span>
             </a>
-            <a href="#" class="max-w-sm font-bold pb-6">
+            <a
+              @click="toggleNavbar"
+              href="#FOOTER"
+              class="max-w-sm font-bold pb-6"
+            >
               <span class="link link-underline link-underline-black">
                 Contact
               </span>

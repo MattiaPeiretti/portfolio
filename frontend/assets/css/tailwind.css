@@ -147,7 +147,7 @@
 
     .centered-page {
         @apply mx-auto
-            px-4
+            px-8
             py-4
             sm:w-full
             lg:w-11/12
