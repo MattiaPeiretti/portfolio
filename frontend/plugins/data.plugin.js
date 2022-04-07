@@ -12,47 +12,52 @@ const allCases = [
   {
     id: 1,
     slug: "test-article-1",
-    title: "Test article one",
+    title: "Birth of PhobosMedia",
     except:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet mollis mauris, congue lacinia dolor. Pellentesque sit amet diam condimentum.",
-    body: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet mollis mauris, congue lacinia dolor. Pellentesque sit amet diam condimentum, dignissim orci vel, pretium lorem. Praesent id finibus lacus. Fusce vitae dui elementum, consectetur ipsum vitae, tempor turpis. Vivamus facilisis et turpis vestibulum maximus. Praesent fermentum nisl quis urna cursus, at porta ligula dignissim. Mauris et odio scelerisque, finibus tortor in, hendrerit est. In eget dui pulvinar, aliquam mauris a, porttitor magna. Donec suscipit ipsum ut magna ultricies consectetur. Nunc vel tellus commodo, elementum sapien a, tincidunt massa. Fusce maximus metus vitae purus placerat, non tempor ipsum hendrerit. Mauris lobortis odio vel lectus aliquet, non auctor elit fermentum. Proin pretium turpis sed purus eleifend, ac consectetur nisi aliquet. Ut massa nunc, tristique et rutrum eu, varius non ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus consequat dui eu dapibus dignissim. Etiam felis libero, lacinia quis sapien ultrices, imperdiet bibendum erat. Duis at urna magna. Quisque ut congue elit, elementum interdum augue. Nullam blandit elit sem, vel mollis nibh cursus vitae. Nunc elementum mi eget fermentum semper. Nunc mattis vehicula ornare. Etiam scelerisque pulvinar urna, id semper augue sodales a. Aliquam erat volutpat. In volutpat, turpis a consequat elementum, sapien lacus venenatis nisl, commodo placerat tellus lorem quis dolor. Phasellus venenatis scelerisque erat quis suscipit. Ut rhoncus, risus id venenatis gravida, leo nunc consectetur urna, convallis suscipit ipsum mauris vitae mi. Nunc auctor ultrices nulla eget dictum. Donec sit amet enim arcu. Suspendisse aliquam mi in feugiat malesuada. Vestibulum nec libero a purus luctus dapibus vel ut nisl. Nulla facilisi. Maecenas ut tellus at enim pretium tempor vitae vitae velit. Fusce porta nec est vel elementum. Sed non augue congue justo consequat porta. Integer luctus metus massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu vestibulum risus, ut posuere metus. Etiam ac nisi id libero fermentum aliquet in id risus. Vestibulum volutpat diam sed fringilla auctor. Vestibulum et ligula justo. Donec varius elit nisl, vel maximus sem luctus vitae. Nam ut lectus molestie, molestie augue vel, rhoncus magna. Phasellus porttitor vehicula sem tincidunt efficitur. Aliquam in rhoncus ante, eu consectetur eros. Suspendisse potenti. Nunc sodales dui sed diam rutrum, eleifend euismod leo pharetra. Sed id cursus ante. Phasellus a neque eu lacus facilisis finibus. Integer pretium libero vel quam facilisis iaculis. Fusce et nisi feugiat, tincidunt orci a, pulvinar odio. In hac habitasse platea dictumst. Mauris tempus quam metus, viverra imperdiet ligula tincidunt eget. Maecenas pellentesque risus nec mi cursus, non facilisis elit tristique. Nullam molestie, velit at imperdiet blandit, tellus nisl varius ipsum, quis vulputate odio odio bibendum lorem. Integer pellentesque facilisis dignissim. Aliquam rutrum ultrices mi, et auctor lacus interdum pretium. Fusce non consequat nibh. Curabitur aliquam eu odio in vulputate. Aenean mattis sem sit amet cursus porttitor. Nullam ornare justo a mi aliquam venenatis. Mauris in neque eget ligula pellentesque varius. Quisque tristique tincidunt purus, quis mattis neque fermentum nec. Donec viverra enim a congue volutpat. Duis nec velit vel lorem venenatis congue porttitor sed leo.",
+    body: "Well, after gaining some experience overall, as you likely understood from the previous articles, combined together with my entrepreneurial spirit, I opened my first company, called PhobosMedia. This company started creating products for clients, mostly in the web industry, but I eventually worked as film-maker (another passion of mine), and a couple of times developed non web apps, for research purposes for a couple of clients. And I really like where this journey is bringing me. I keep learning about new technologies and techniques, but I also keep learning about core entrepreneurial skills, like negotiating, closing deals, mitigating risk and so on. Also, having finished another great pilot organized once again by the CoderClass, this time with the Vrije Universiteit, about C++, I am refining that skill as well, and I am starting to use it commercially for my clients!",
     date: "11th March 2020",
+    emoji: "👔",
   },
   {
     id: 2,
     slug: "test-article-2",
-    title: "Test article two",
+    title: "Quantum Computing and more",
     except:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet mollis mauris, congue lacinia dolor. Pellentesque sit amet diam condimentum.",
-    body: "This is my beautiful article!",
+      "In 2020, thanks to my school, I partook to a pilot with the univesity of Amsterdam, about Quantum Computing.",
+    body: "Back in 2020, my highschool organized a pilot with the university of Amsterdam, regarding quantum computing. Which I found extremely interesting. We learn about most of the linear algebra behind it, subsequently we learned about quantum circuits, gates, and complex operations, and finally we learned how to devise quanum algorythms. At the end I passed as one of the best 7 parttakers of the pilot, and got gifted two wonderful books from the main professor of the course: Dr. Micheal Walter. A year after that, when I had to write my profile essay for school, I decided to write it about quantum computing. Which revealed to be a huge learning opportunity. I got to intervierw a researcher from the University of Amsterdam, Dr. F. Speelman. And I also wrote an experiment and ran it on a real IBM quantum computer.",
     date: "11th March 2020",
+    emoji: "⚛",
   },
   {
     id: 3,
     slug: "test-article-3",
-    title: "Test article three",
+    title: "Science related projects",
     except:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet mollis mauris, congue lacinia dolor. Pellentesque sit amet diam condimentum.",
-    body: "This is my beautiful article!",
+      "Whilst my love for the web was growing more and more, I never stopped having my fun with local programs, mostly coded in python.",
+    body: "Whilst my love for the web was growing more and more, I never stopped having my fun with local programs, mostly coded in python. Back then, then when I first started working with a frined of mine, who is a reasearcher in the astronomiacal field. We soon started to develop software to help us to execute better atronomical observations of the sky, and I started working on a wat to motorize and control via software an old telescope mount we were palying with back then. However, back to the observations software. It was called WebCam Extender, and what it basically allowed you to do, is to do a real time stacking of the frames of a webcam, so as to ultimately have a more bright view of the sky, which allows you to capture more stars, when observing, even is the quality of the webcam wasn't that great.",
     date: "11th March 2020",
+    emoji: "🔭",
   },
   {
     id: 4,
     slug: "test-article-4",
-    title: "Test article four",
+    title: "Love for the web",
     except:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet mollis mauris, congue lacinia dolor. Pellentesque sit amet diam condimentum.",
-    body: "This is my beautiful article!",
+      "After my journey with quite a few different languages, I landed on web-dev.",
+    body: "After my journey with quite a few different languages, I landed on web-dev. I still remember my first little website, made just in HTML and CSS. I mean, it looked aweful, by it was my little aweful website. I was proud of it. And after that I started falling more and more in love with it. For a bit of context I am also really passionate about entrepreneurship. And when I discovered the web, I soon discovered the doors that it opens to helping small businesses. Think about marketing, brand identity, and so on. And furthermore, I also discovered my passion for design, which I had never explored before. Well after focusing on the web for a couple of months, I eventually got my first client. Now, the pay was close to non-existent, but I didn't care, I had scored my first client! Back then I was still working with plan HTML, CSS, and JavaScript. I didn't know how to use frameworks like JQuery or React.",
     date: "11th March 2020",
+    emoji: "🌐",
   },
   {
     id: 5,
-    slug: "test-article-5",
-    title: "Test article five",
+    slug: "my-first-approach-to-programming",
+    title: "My first approach to programming",
     except:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet mollis mauris, congue lacinia dolor. Pellentesque sit amet diam condimentum.",
-    body: "This is my beautiful article!",
+      "My story of how I discovered programming, and fell in love with it!",
+    body: "As I kid I always enjoyed technical things. I loved to wrap my head around different problems and to build stuff of my own. So I started with electronics at first. After having had my fun with basic circuits, I discovered Arduino, and that's when I fell in love with programming. I was about 12 years old back then. Since then I really dirtied my hands with everything, from Lua to Visual Basic, C++, then later python and finally Javascript and web related languages. But so far, I never really studied computer science at school. It was just a really fun hobby for me, that I kept learning abour and teaching myself. But when I was around 14 years old, I moved from Italy, my home country, to the Netherlands. After a couple of years of bridge school years, in order to learn the language, that's when I realy started to study computer science at school. The highschool where I landed called Metis, has a program called 'CoderClass', that teaches different realms of programming to kids of very diverse ages. And even tho I joind the program later, I still profited a lot from having someone teach computer science to me. Don't get me wrong, self-teaching is awesome. But to make an analogy, you can teach yourself how to write, but other people can teach you how to make poetry. ",
     date: "11th March 2020",
+    emoji: "👨‍💻",
   },
 ];
 

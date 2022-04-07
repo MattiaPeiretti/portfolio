@@ -9,8 +9,14 @@
           bg-red-300
           rounded-xl
           hover:ring-2 hover:ring-red-500
+          text-6xl
+          flex
+          justify-center
+          items-center
         "
-      ></div>
+      >
+        {{ articleData.emoji }}
+      </div>
     </a>
     <h2 class="title text-2xl pt-4 pb-2">{{ articleData.title }}</h2>
     <span> {{ articleData.except }}</span>
